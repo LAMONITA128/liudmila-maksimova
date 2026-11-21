@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lamonita128.github.io/liudmila-maksimova/sitemap.xml
