@@ -15,4 +15,35 @@
     <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-weekend.jpg</image:loc></image:image>
     <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-terrace.jpg</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/og.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/setevoy-biznes-ili-piramida.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/cover-setevoy-biznes-ili-piramida.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-setevoy-biznes-ili-piramida.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/vtoroe-delo-ryadom-so-svoim.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-terrace.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-vtoroe-delo-ryadom-so-svoim.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/biznes-bez-privyazki-k-strane.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-istanbul.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-biznes-bez-privyazki-k-strane.jpg</image:loc></image:image>
+  </url>
 </urlset>
