@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://lamonita128.github.io/liudmila-maksimova/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/about-office.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-marina.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-sea-view.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-istanbul.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-travel.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-weekend.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-terrace.jpg</image:loc></image:image>
   </url>
 </urlset>

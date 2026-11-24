@@ -3,9 +3,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Людмила Максимова — 20 лет своего дела у моря. Теперь ещё одно, онлайн</title>
-  <meta name="description" content="Людмила Максимова (Liudmila Maksimova): двадцать лет в Турции, двадцать лет своего дела. Рассказываю предпринимателям, как строю ещё одно дело онлайн — честно и без громких обещаний.">
+  <title>Людмила Максимова — второе дело онлайн рядом со своим</title>
+  <meta name="description" content="Людмила Максимова (Liudmila Maksimova), предприниматель с видом на море: 20 лет своего дела в Турции, теперь строю второе дело онлайн. Без громких обещаний.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="author" content="Людмила Максимова">
+  <meta name="theme-color" content="#0f3554">
   <link rel="canonical" href="https://lamonita128.github.io/liudmila-maksimova/">
+
+  <!-- Иконка сайта: во вкладке браузера и на экране телефона; в выдаче поисковиков — после переезда на свой домен -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon-192.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
   <!-- Превью ссылки в Telegram, WhatsApp и соцсетях -->
   <meta property="og:type" content="website">
@@ -19,21 +27,115 @@
   <meta property="og:image:height" content="472">
   <meta property="og:image:alt" content="Людмила Максимова в своём офисе">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Людмила Максимова — предприниматель с видом на море">
+  <meta name="twitter:description" content="20 лет своего дела в Турции. Теперь — ещё одно, онлайн. Рассказываю предпринимателям, как я его строю, честно и без громких обещаний.">
+  <meta name="twitter:image" content="https://lamonita128.github.io/liudmila-maksimova/images/og.jpg">
+  <meta name="twitter:image:alt" content="Людмила Максимова в своём офисе">
 
-  <!-- Карточка «кто это» для поисковиков: данные, а не программа -->
+  <!--
+    Карточки для поисковиков (JSON-LD): данные, а не программа.
+    Сайт, страница-профиль, человек и честные вопросы связаны через @id.
+    Вопросы-ответы нужны прежде всего Яндексу и ИИ-помощникам.
+    Тексты вопросов и ответов должны дословно совпадать с блоком #faq ниже:
+    правите ответ на странице — поправьте и здесь.
+  -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Людмила Максимова",
-    "alternateName": "Liudmila Maksimova",
-    "description": "Предприниматель, 20 лет своего дела в Турции",
-    "url": "https://lamonita128.github.io/liudmila-maksimova/",
-    "image": "https://lamonita128.github.io/liudmila-maksimova/images/og.jpg",
-    "sameAs": [
-      "https://t.me/LiudmilaFinance",
-      "https://t.me/oberegworld",
-      "https://www.instagram.com/liudmila.new.finance"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://lamonita128.github.io/liudmila-maksimova/#website",
+        "url": "https://lamonita128.github.io/liudmila-maksimova/",
+        "name": "Людмила Максимова",
+        "alternateName": "Предприниматель с видом на море",
+        "inLanguage": "ru-RU",
+        "publisher": { "@id": "https://lamonita128.github.io/liudmila-maksimova/#person" }
+      },
+      {
+        "@type": "ProfilePage",
+        "@id": "https://lamonita128.github.io/liudmila-maksimova/#webpage",
+        "url": "https://lamonita128.github.io/liudmila-maksimova/",
+        "name": "Людмила Максимова — второе дело онлайн рядом со своим",
+        "description": "Людмила Максимова, предприниматель с видом на море: 20 лет в Турции, 20 лет своего дела. Показывает, как строит второе дело онлайн, честно и без громких обещаний.",
+        "inLanguage": "ru-RU",
+        "isPartOf": { "@id": "https://lamonita128.github.io/liudmila-maksimova/#website" },
+        "mainEntity": { "@id": "https://lamonita128.github.io/liudmila-maksimova/#person" },
+        "dateCreated": "2026-11-21",
+        "dateModified": "2026-11-24"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://lamonita128.github.io/liudmila-maksimova/#person",
+        "name": "Людмила Максимова",
+        "alternateName": "Liudmila Maksimova",
+        "jobTitle": "Предприниматель",
+        "description": "Предприниматель с видом на море: 20 лет в Турции, 20 лет своего дела. Показывает предпринимателям, как строит второе дело онлайн.",
+        "url": "https://lamonita128.github.io/liudmila-maksimova/",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://lamonita128.github.io/liudmila-maksimova/images/about-office.jpg",
+          "width": 900,
+          "height": 1125,
+          "caption": "Людмила Максимова в своём офисе"
+        },
+        "homeLocation": { "@type": "Country", "name": "Турция" },
+        "knowsAbout": ["Предпринимательство", "Недвижимость", "Онлайн-бизнес", "Партнёрский бизнес", "Wellness"],
+        "sameAs": [
+          "https://t.me/LiudmilaFinance",
+          "https://t.me/oberegworld",
+          "https://www.instagram.com/liudmila.new.finance"
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://lamonita128.github.io/liudmila-maksimova/#faq",
+        "url": "https://lamonita128.github.io/liudmila-maksimova/",
+        "inLanguage": "ru-RU",
+        "isPartOf": { "@id": "https://lamonita128.github.io/liudmila-maksimova/#website" },
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Это сетевой бизнес?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Да. И мне важно, чтобы вы услышали это от меня сразу, а не догадались потом." }
+          },
+          {
+            "@type": "Question",
+            "name": "Это пирамида?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Справедливый вопрос — я задавала его сама, и не один раз. Главный признак пирамиды: деньги приходят от взносов новых участников, а не от продажи реальных товаров. Вход здесь — тоже покупка, так что вопрос законный. На встрече я покажу документы компании о приборах и о том, из чего складывается вознаграждение партнёров, а выводы вы сделаете сами. Я за то, чтобы проверять, а не верить." }
+          },
+          {
+            "@type": "Question",
+            "name": "Почему вы не называете компанию?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Потому что сначала вы знакомитесь со мной. Компанию можно проверить по документам, а человека, с которым предстоит работать, — только поговорив. Название и документы вы получите раньше, чем понадобится что-то решать." }
+          },
+          {
+            "@type": "Question",
+            "name": "Нужно ли что-то покупать — на старте и каждый месяц?",
+            "acceptedAnswer": { "@type": "Answer", "text": "На старте — да. Вход — это покупка приборов компании: вы получаете их, пользуетесь сами и рассказываете людям о своём опыте. Так это дело и устроено. Точную сумму и состав покупки назову, как только спросите. А вот обязательных ежемесячных покупок нет — ни чтобы оставаться партнёром, ни чтобы получать вознаграждение. Это я тоже говорю сразу." }
+          },
+          {
+            "@type": "Question",
+            "name": "Нужно ли продавать знакомым?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Ходить по знакомым с каталогом не придётся. Но скажу честно: рекомендовать приборы — это и есть продажи, просто без прилавка. Можно идти этим путём, а можно строить команду, но без общения с людьми не работает ни один из них. Как это выглядит в жизни, покажу на встрече." }
+          },
+          {
+            "@type": "Question",
+            "name": "Сколько времени это занимает?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Универсального ответа нет. Я покажу, сколько времени уходит у меня — на планёрки, звонки и встречи, — а вы решите, подходит ли вам такой ритм." }
+          },
+          {
+            "@type": "Question",
+            "name": "Гарантирован ли доход?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Нет. Гарантий дохода здесь нет. А если кто-то обещает вам обратное, это хороший повод насторожиться." }
+          },
+          {
+            "@type": "Question",
+            "name": "Можно ли заниматься из любой страны?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Дело ведётся онлайн, и партнёры в моей команде живут в разных странах. Условия в разных странах могут отличаться — для вашей я уточню заранее, чтобы обошлось без сюрпризов." }
+          }
+        ]
+      }
     ]
   }
   </script>
