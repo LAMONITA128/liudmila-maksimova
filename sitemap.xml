@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://lamonita128.github.io/liudmila-maksimova/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/og.jpg</image:loc></image:image>
@@ -45,5 +45,29 @@
     <priority>0.7</priority>
     <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/life-istanbul.jpg</image:loc></image:image>
     <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-biznes-bez-privyazki-k-strane.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/setevoy-biznes-plyusy-i-minusy.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/cover-setevoy-biznes-plyusy-i-minusy.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-setevoy-biznes-plyusy-i-minusy.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/chto-takoe-wellness-industriya.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/cover-chto-takoe-wellness-industriya.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-chto-takoe-wellness-industriya.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://lamonita128.github.io/liudmila-maksimova/blog/vygoranie-predprinimatelya.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/cover-vygoranie-predprinimatelya.jpg</image:loc></image:image>
+    <image:image><image:loc>https://lamonita128.github.io/liudmila-maksimova/images/slide-vygoranie-predprinimatelya.jpg</image:loc></image:image>
   </url>
 </urlset>
