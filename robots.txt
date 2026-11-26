@@ -1,7 +1,5 @@
 # Правила для поисковых роботов.
-# Роботы читают этот файл только в корне адреса: https://домен/robots.txt.
-# Пока сайт живёт в подпапке github.io, файл не действует (запрет нигде не стоит,
-# поэтому сайт и так открыт). Начнёт действовать со своим доменом.
+# Роботы читают этот файл только в корне адреса: https://liudmila-maksimova.com/robots.txt.
 
 User-agent: *
 Allow: /
@@ -28,4 +26,4 @@ User-agent: Google-Extended
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://lamonita128.github.io/liudmila-maksimova/sitemap.xml
+Sitemap: https://liudmila-maksimova.com/sitemap.xml
